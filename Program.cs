@@ -8,9 +8,10 @@
             //line.Distance();
             //CheckEquality line = new CheckEquality();
             //line.LenghthEqualityCheck();
-            TwoLineComparision line = new TwoLineComparision();
+            //TwoLineComparision line = new TwoLineComparision();
+            //line.Check();
+            TwoLineComparisionOPPS line = new TwoLineComparisionOPPS();
             line.Check();
-
         }
     }
 }
